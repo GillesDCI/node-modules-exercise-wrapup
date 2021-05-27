@@ -6,4 +6,4 @@
 * print the result of the addition, subraction, division and multiplication. 
 * use timeout function in javascript and convert one function into a promise. 
 * create a secret in a .env file 
-* write the result of a function you choose in a text file 
+* write the result of a function you choose in a text file : "the result is " + result
